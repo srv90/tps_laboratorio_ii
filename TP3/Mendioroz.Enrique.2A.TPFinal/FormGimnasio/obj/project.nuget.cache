@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6TyVLEDeLWHHSF2A0EZ+pYVlanYPtyuAp976a8sJXe4gFeT0sO03oeB+LrWNPtNNBRgT9DePO12jJ2NNyteJbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Quique\\source\\repos\\Mendioroz.Enrique.2A.TPFinalPrimero\\FormGimnasio\\FormGimnasio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Quique\\.nuget\\packages\\system.windows.forms.datavisualization\\1.0.0-prerelease.20110.1\\system.windows.forms.datavisualization.1.0.0-prerelease.20110.1.nupkg.sha512"
+  ],
+  "logs": []
+}
