@@ -1,0 +1,6 @@
+C:\Users\Quique\source\repos\Mendioroz.Enrique.2A.TPFinal\TestUnitarios\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\Quique\source\repos\Mendioroz.Enrique.2A.TPFinal\TestUnitarios\obj\Debug\net5.0\TestUnitarios.csproj.AssemblyReference.cache
+C:\Users\Quique\source\repos\Mendioroz.Enrique.2A.TPFinal\TestUnitarios\obj\Debug\net5.0\TestUnitarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quique\source\repos\Mendioroz.Enrique.2A.TPFinal\TestUnitarios\obj\Debug\net5.0\TestUnitarios.AssemblyInfoInputs.cache
+C:\Users\Quique\source\repos\Mendioroz.Enrique.2A.TPFinal\TestUnitarios\obj\Debug\net5.0\TestUnitarios.AssemblyInfo.cs
+C:\Users\Quique\source\repos\Mendioroz.Enrique.2A.TPFinal\TestUnitarios\obj\Debug\net5.0\TestUnitarios.csproj.CoreCompileInputs.cache
